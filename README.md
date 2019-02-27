@@ -1,4 +1,4 @@
-# Assignment 4
+# In Class Lab 6
 
 ## Domain
 The domain of the website is fashion. Each webpage covers a different aspect of fashion: shoes, high-street fashion, and designer houses.
