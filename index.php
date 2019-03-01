@@ -1,8 +1,28 @@
-<?php
-$currentPage="Shoes | ";
-include "inc/html-top.inc";?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <title>Fashion Facts | In class Lab 6 | Shawn</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
+	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Karla|Shadows+Into+Light" rel="stylesheet">
+</head>
 
-	
+
+<body class="container">
+	<header>
+		<h1>Fashion Facts</h1>
+	</header>
+
+<nav class="innercontainer">
+	<ul>
+		<li><a href="http://csc174.org/assignment04/hongkong/shoes.php">Original Team Hong-Kong Assignment 4</a></li>
+	</ul>
+</nav>
+
+ 
+	<main>
 
 
 		<h2>Fashionable Shoes</h2>
@@ -63,7 +83,8 @@ include "inc/html-top.inc";?>
 	<footer> © CSC 174: Advanced Front-end Web Design and Development</footer>
 
 
-    <?php include "inc/scripts.inc"; ?>
+<script src="//code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 
 </body>
 

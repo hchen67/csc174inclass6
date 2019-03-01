@@ -1,41 +1,27 @@
 # In Class Lab 6
 
 ## Domain
-The domain of the website is fashion. Each webpage covers a different aspect of fashion: shoes, high-street fashion, and designer houses.
 
-## Ontology
-### Overall Website
-- Each webpage has a focus on things related to people 
-### Index
-- Each webpage has a list of topics
-- Each webpage has a creative description
-### Individual Page
-- Each topic has an introduction
-- Each topic has a brief history
+The domain of the website is fashion. The webpage is basically for in class lab6 and the main content of the page is one of the subpage from Team HK assignment 4, which is about fashionable shoes
 
-## Taxonomy 
-### Index
-- h1 tag for "Fashion Facts"
-	- nav bar is "Home, Shoes, High-Street Fashion, Designer House"
+## My Decisions
 
-	- H2 tag is the name of a webpage
-		- List of subtopics
-		- Description for topic
+### Typography
 
-	- footer is "© CSC 174: Advanced Front-end Web Design and Development"
+-- i change the title h1 style to a more fashionable related font instead of the original plain and serious font style. The new font style just fits the topic more and more user-friendly.
 
-### Individual Pages
-- h1 tags for "Fashion Facts"
-	- nav bar is "Home, Shoes, High-Street Fashion, Designer House"
+-- i change the h3 tag and fill the background with color. This sort of functions as a title bar and make the content more organised.
 
-	- h2 tag is the name of the subtopic
-		- Introduction
-		- Brief History
+-- i fill the whole page with a new background which makes it more user-friendly and fashion-related.
 
-	- footer is "© CSC 174: Advanced Front-end Web Design and Development"
+-- By change the background, i need to change the original text colour to a new one, so i choose the white oriented colour and it looks clean and appropriate.
 
-## Choreography
-1. Homepage (index page)
-2. Shoes
-3. High-street fashion
-4. Designer house
+### Readability
+
+-- i change the paragraph font and increase the font size so there's more white space and it makes the content more readable and consistent.
+
+-- i keep the h3 and h4 font style (the one previous team used) because i think the font style is clean and it stands out from the whole page.
+
+-- i change the "fashionable shoes" h2 tag to a new style so it makes the content more stylish and fits the topic more. Besides, it emphasize the importance of the content.
+
+-- i make the nav italic so it stands out from the other content from the page. So this apparently tells the viewer its function, which fits the function of contrast perception.

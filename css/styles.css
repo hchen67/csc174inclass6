@@ -2,6 +2,14 @@
 	margin: 0 auto;
 	width: 95%;
 	max-width: 960px;
+	background-image: url(../images/fashion.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.innercontainer {
+	margin:0;
 }
 
 .excerpt {
@@ -24,13 +32,14 @@ div a {
 
 p{
 	line-height:1.5em;
-	font-size:15px;
+	font-size: 17px;
 	padding: 10px;
-	font-family: "EB Garamond", serif;
+	font-family: 'Karla', sans-serif;
+	color: #edfffb;
 }
 
 main p{
-	border:dashed white 1px;
+	border:dashed #65b6b0 3px;
 }
 
 header a, text a, nav a{
@@ -44,39 +53,44 @@ header a, text a{
 }
 
 h1{
-	font-family: "Oswald", serif;
+	font-family: 'Dancing Script', cursive;
     font-weight: bold;
     text-decoration: none;
-	color: #000000;
+	color: white;
+	font-size: 55px;
 }
 
 h2{
 	font-weight: bold;
-	font-family: "Oswald", serif;
-	color: #949599;
+	font-family: 'Shadows Into Light', cursive;
+	color: #d3fff9;
 }
 h3{
 	border-top: 3px solid #65b6b0;
 	border-bottom: 3px solid #65b6b0;
 	font-family: "Oswald", serif;
-	color: #65b6b0;
+	color: white;
+	background-color: #65b6b0;
+	font-size: 25px;
 }
 
 h4{
 	font-family: "Oswald", serif;
-	color: #97cfcc;
+	color: #d3fff9;
+	font-size: 22px;
 }
 
 footer{
 	text-align: right;
-	font-family: "EB Garamond", serif;
+	font-family: "Oswald", serif;
 	border:black 5px;
 	margin-bottom:10px;
 	padding-top: 30px;
+	color: #d6fff5;
 }
 
 ul{
-	font-family: "EB Garamond", serif;
+	font-family: "Oswald", serif;
 	margin:10px;
 	list-style-type: circle;
 	padding:20px;

@@ -8,7 +8,7 @@ nav ul {
 
 nav li {
 	max-width: max-content; 
-	margin:20px;
+	margin: 10px;
 	width: 50%;
 }
 
@@ -17,6 +17,9 @@ nav a {
 	display: block;
 	text-align: center;
 	text-decoration: none;
+	color: #e8fcfa;
+	font-style: italic;
+	font-size: 18px;
 }
 
 nav a:visited{
@@ -24,7 +27,7 @@ nav a:visited{
 }
 
 nav a:hover {
-	color: grey;
+	color: #84fff2;
 	font-size:120%;
 	text-decoration: underline;
 }
